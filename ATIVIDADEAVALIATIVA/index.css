@@ -1,0 +1,53 @@
+body{
+    background-color:rgb(219, 207, 196);
+}
+#div{
+    display: flex1;
+    width: 360px;
+    height: 200px;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(195, 195, 207);
+    margin: 3px;
+}
+
+#central{
+    margin:3px;
+    padding: 3px;
+    width: 500px;
+}
+
+#drag1{
+    display: block;
+    margin: 3px;
+    padding-top: 25px;
+    margin: 5px;
+}
+
+#drag2{
+    display: block;
+    margin: 3px;
+    padding-top: 25px;
+    margin: 5px;
+}
+
+#drag3{
+    display: block;
+    margin: 3px;
+    padding-top: 25px;
+    margin: 5px;
+}
+
+#central01{
+    margin:3px;
+    padding: 3px;
+    width: 500px;
+}
+
+#divmaior{
+    display: flex;
+    background-color: rgb(79, 79, 158);
+}
+
+hr{
+    color: black;
+}
